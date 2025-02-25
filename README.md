@@ -15,7 +15,8 @@ The [US Accidents (2016 - 2023)](https://www.kaggle.com/datasets/sobhanmoosavi/u
     - [Linear SVM](https://github.com/kbcoulter/crash-models/blob/main/models/svm_lin_model.py)
     - [Polynomial SVM](https://github.com/kbcoulter/crash-models/blob/main/models/svm_poly_model.py)
     - [Logistic Regression Model](https://github.com/kbcoulter/crash-models/blob/main/models/log_reg_model.py)
-    - [All Models](https://github.com/kbcoulter/crash-models/blob/main/models/crash_all_models.ipynb) (Condensed Jupyter Notebook)
+    - [All Models](https://github.com/kbcoulter/crash-models/blob/main/models/crash_all_models.py) (All Models in Single Script)
+    - [All Models .ipynb](https://github.com/kbcoulter/crash-models/blob/main/models/crash_all_models.py) (All Models in Jupyter Notebook)
 
 # Model Performance 
 *Accuracy values reflect results based on randomly selected random seeds.*
