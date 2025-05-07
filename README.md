@@ -1,7 +1,7 @@
 # crash_models
 This project uses machine learning to predict the impact of car accidents on nearby traffic delays. The goal is to classify whether an accident will cause a severe delay or not, helping to improve traffic management and response strategies.
 
-This repository contains a small project for DSCI/CS 372: Machine Learning for Data Science at the University of Oregon. Some formatting changes have been made to better align with my preferences.
+This repository contains a small independent project for DSCI/CS 372: Machine Learning for Data Science at the University of Oregon. Some formatting changes have been made to better align with my preferences.
 
 # Data
 The [US Accidents (2016 - 2023)](https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents) dataset spans 49 U.S. states and contains accident data collected from various APIs between February 2016 and March 2023. Sources include national and state departments of transportation, law enforcement agencies, traffic cameras, and more. Initially, the dataset comprised around 7.7 million accidents across 46 variables.
